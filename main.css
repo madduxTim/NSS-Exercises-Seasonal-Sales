@@ -1,0 +1,32 @@
+div.card {
+    background: lightblue;
+    border: 5px outset slategrey;
+    border-radius: 15%;
+    text-align: center;
+    min-width: 4%;
+    margin: 3%;
+    float: left;
+    box-shadow: 5px 5px 5px slategrey;
+    height: 180px;
+}
+
+.price {
+    font-size: 1.4em;
+    color: darkred;
+    border: 2px groove red;
+    border-radius: 55%;
+    width: 85%;
+    margin: 0 auto;
+}
+
+.season {
+    font-size: 1.5em;
+    color: darkred;
+    display: block;
+    font-style: normal;
+}
+
+.marketing {
+    font-size: .8em;
+    font-style: italic;
+}
