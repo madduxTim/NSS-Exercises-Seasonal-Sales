@@ -20,7 +20,7 @@ should load both file via XHRs and store the contents in two different JavaScrip
 code.
 
 ##Screenshot 
-![Finished product:](https://raw.githubusercontent.com/madduxTim/NSS-Exercises-Seasonal-Sales/sales/screenshot.png)
+![Finished product:](https://raw.githubusercontent.com/madduxTim/NSS-Exercises-Seasonal-Sales/master/screenshot.png)
 
 ##Lessons learned/reinforced 
 
